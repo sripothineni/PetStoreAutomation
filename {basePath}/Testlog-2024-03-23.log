@@ -1,0 +1,8 @@
+22:20:53.994 [main] INFO  api.test.UserTests - log :: Creating user
+22:20:56.430 [main] INFO  api.test.UserTests - log :: User Created
+22:20:56.442 [main] INFO  api.test.UserTests - log :: Reading user info
+22:20:57.280 [main] INFO  api.test.UserTests -  log :: User info retrived
+22:20:57.285 [main] INFO  api.test.UserTests - log :: update user info
+22:20:59.415 [main] INFO  api.test.UserTests - log :: User info updated
+22:20:59.418 [main] INFO  api.test.UserTests - log :: Delete user
+22:21:00.345 [main] INFO  api.test.UserTests - log :: Delete user completed
